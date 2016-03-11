@@ -1,0 +1,8 @@
+{
+	"index.html": {
+		"resources": [
+			"css/swiper.min.css",
+			"js/swiper.min.js"
+		]
+	}
+}
